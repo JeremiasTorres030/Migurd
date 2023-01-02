@@ -1109,7 +1109,6 @@ code {
 .home .CloseSesionNavBar .CloseSesionButtons {
   display: flex;
   justify-content: space-between;
-  width: calc(2 / 100%);
   height: 100%;
 }
 .home .CloseSesionNavBar .CloseSesionButtons svg {
