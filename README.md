@@ -18,6 +18,9 @@ Para inicializar el proyecto se necesita un archivo .env en el directorio "/" co
 
 `MONGODB_URI` MongoDB
 
+`PORT` 
+
+
 
 
 ## Instalacion e inicio para desarrollo
