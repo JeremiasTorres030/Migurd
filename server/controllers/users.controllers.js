@@ -350,7 +350,7 @@ export const getLoginUser = async (req, res) => {
   try {
     const loggedUser = await users.findOne({
       email,
-      hashPassword,
+      password: hashPassword,
     })
     if (loggedUser === null) {
       res.status(404)
