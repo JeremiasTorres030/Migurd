@@ -65,5 +65,5 @@ Instalación e inicio para desarrollo.
 ```
 ## Estado del proyecto
 
-El proyecto está finalizado, pero en un futuro me gustaría seguir agregando más funcionalidades. Como un chat, compartir publicaciones entre otras cosas.
+Trabajando en una version mejorada......
 
